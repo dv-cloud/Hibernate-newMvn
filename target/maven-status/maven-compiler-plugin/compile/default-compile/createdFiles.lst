@@ -1,0 +1,9 @@
+Main.class
+entities\Discipline.class
+dao\ImplementationDAO.class
+dao\ToFromDB.class
+entities\Role.class
+entities\User.class
+enums\TaskStatus.class
+utils\HibernateUtils.class
+entities\Task.class
